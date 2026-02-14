@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI%202026-blue)](https://arxiv.org/abs/2505.17652)
-</div>、
+</div>
 
 ## 🌟 Overview
 
