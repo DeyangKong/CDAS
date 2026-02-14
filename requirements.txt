@@ -1,0 +1,10 @@
+transformers 
+hydra-core 
+tensordict==0.5.0
+numpy 
+pytest 
+pybind11 
+codetiming
+yapf
+wandb
+git+https://github.com/NVIDIA/TransformerEngine.git@stable
